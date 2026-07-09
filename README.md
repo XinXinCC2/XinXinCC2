@@ -47,20 +47,15 @@
 </tr>
 </table>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=XinXinCC2&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Followers,PullRequest,Issues,Stars,Experience" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/XinXinCC2/XinXinCC2/output/metrics.svg" alt="GitHub Metrics" width="94%" />
 
-</div>
+<br/><br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=XinXinCC2&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0284c7&icon_color=0ea5e9&text_color=334155&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinXinCC2&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&langs_count=8" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/XinXinCC2/XinXinCC2/output/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" width="94%" />
 
 <br/><br/>
 
