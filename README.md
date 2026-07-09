@@ -47,17 +47,9 @@
 </tr>
 </table>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/XinXinCC2/XinXinCC2/output/metrics.svg" alt="GitHub Metrics" width="94%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/XinXinCC2/XinXinCC2/output/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" width="94%" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XinXinCC2&theme=default&hide_border=true&background=ffffff&ring=0284c7&fire=0ea5e9&currStreakLabel=0284c7&sideLabels=334155&dates=64748b" alt="Streak Stats" />
 
