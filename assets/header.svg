@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="32%" class="text" style="fill:#0c4a6e;" stroke="#none" stroke-width="1" >Hi 👋 I'm Galen</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#0c4a6e;">Backend & Automation Developer</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="32%" class="text" style="fill:#0c4a6e;" stroke="none" stroke-width="1" >Hi 👋 I'm Galen</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#0c4a6e;">Backend &amp; Automation Developer</text>
       </svg>
     
