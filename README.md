@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,30:bae6fd,70:7dd3fc,100:38bdf8&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Galen&fontSize=52&fontColor=0c4a6e&animation=fadeIn&fontAlignY=32&desc=Backend%20%26%20Automation%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Header" />
 
 <a href="https://github.com/XinXinCC2">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0284C7&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub!;Make+machines+do+the+boring+work;Small+tools%2C+big+time+savings;Always+shipping%2C+always+learning" alt="Typing SVG" />
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,30:7dd3fc,70:bae6fd,100:e0f2fe&height=110&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="Footer" />
 
 <sub>✨ Thanks for stopping by — have a nice day! ✨</sub>
 
