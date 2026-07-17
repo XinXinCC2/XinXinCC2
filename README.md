@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,30:bae6fd,70:7dd3fc,100:38bdf8&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Galen&fontSize=52&fontColor=0c4a6e&animation=fadeIn&fontAlignY=32&desc=Backend%20%26%20Automation%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://github.com/XinXinCC2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0284C7&center=true&vCenter=true&width=600&lines=Building+AI-agent+tooling+%26+automation;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Shell;LangChain+%2F+LangGraph+%2F+RAG+explorer;Open-sourcing+my+own+projects+soon+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0284C7&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub!;Make+machines+do+the+boring+work;Small+tools%2C+big+time+savings;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=XinXinCC2&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
 <a href="https://github.com/XinXinCC2?tab=followers"><img src="https://img.shields.io/github/followers/XinXinCC2?style=flat-square&logo=github&logoColor=white&labelColor=0284c7&color=e0f2fe&label=Followers" alt="Followers" /></a>
+<a href="mailto:wjc2569878796@gmail.com"><img src="https://img.shields.io/badge/Gmail-wjc2569878796%40gmail.com-0284c7?style=flat-square&logo=gmail&logoColor=white&labelColor=0ea5e9&color=e0f2fe" alt="Email me" /></a>
 <img src="https://img.shields.io/badge/Focus-AI%20Agents-0284c7?style=flat-square&logo=probot&logoColor=white&labelColor=0ea5e9&color=e0f2fe" alt="Focus" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-0284c7?style=flat-square&logo=handshake&logoColor=white&labelColor=0ea5e9&color=e0f2fe" alt="Open to collaboration" />
 
@@ -51,19 +51,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XinXinCC2&theme=default&hide_border=true&background=ffffff&ring=0284c7&fire=0ea5e9&currStreakLabel=0284c7&sideLabels=334155&dates=64748b" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=XinXinCC2&theme=default&hide_border=true&background=ffffff&ring=0284c7&fire=0ea5e9&currStreakLabel=0284c7&sideLabels=334155&dates=64748b" alt="Streak Stats" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XinXinCC2&theme=minimal&hide_border=true&color=0c4a6e&line=0284c7&point=0ea5e9&area=true&area_color=e0f2fe" width="94%" alt="Activity Graph" />
-
-</div>
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote" />
 
 </div>
 
